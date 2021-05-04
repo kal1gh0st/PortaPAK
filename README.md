@@ -8,6 +8,8 @@ This is a fork of the Havoc firmware, which itself was a fork of the PortaPack f
 
 PortaPack H2+HackRF+battery (clone) with a custom 3d printed case
 
+![immagine](https://user-images.githubusercontent.com/56889513/117020309-9cf27600-acf6-11eb-84b0-2e47178601df.png)
+
 Quick overview
 If you are new to HackRF+PortaPack+Mayhem, there is an awesome introductory video by Tech Minds available:
 
